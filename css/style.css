@@ -165,3 +165,30 @@ body  {
   padding: 20px 20px;
   height: 180px;
 }
+
+
+.products  { 
+  color: #222;
+  border: 0px solid #00ABBD;
+  padding: 7px 0px;
+  height: auto;
+}
+
+
+
+.products .title  {
+	font-size: 22px;
+	font-family: 'Lato', sans-serif;
+	font-family: 'Open Sans', sans-serif;
+	font-style: normal;
+	font-weight: 400;
+	color: #00ABBD;
+}
+
+
+.product-dp img {
+	width: 250px;
+	height: 250px;
+	border: 2px solid #fff;
+	border-radius: 1000px;
+}
