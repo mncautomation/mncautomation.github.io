@@ -18,6 +18,7 @@ body  {
   font-family: 'PT Sans', sans-serif;
   font-weight: bold;
   color: #FFA200;
+  color: rgb(31, 73, 125);
 }
 
 .page-header #c-sub  {
@@ -25,8 +26,9 @@ body  {
   font-family: 'Lato', sans-serif;
   font-family: 'Open Sans', sans-serif;
   font-weight: bold;
-  color: #FFA200;
   color: #65C6BB;
+  color: #FFA200;
+
   }
 
 .nav a  {
